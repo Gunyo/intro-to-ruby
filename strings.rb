@@ -1,0 +1,1 @@
+puts "tom" * 3 "tom" + "tom" "tom" + 1 "tom" / 2
